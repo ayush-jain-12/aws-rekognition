@@ -1,2 +1,3 @@
 # aws-rekognition
-Code and Commands for creating a face recognition service with Amazon Rekognition.
+
+Small Project on face recognition service with Amazon Rekognition.
